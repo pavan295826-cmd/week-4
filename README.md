@@ -50,4 +50,4 @@ Built a Logistic Regression model to predict heart disease.
 - heart_disease_uci.csv
 
 ## Author
-Shaik Bushra Faizi
+Pavan Kumar
